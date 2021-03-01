@@ -1,0 +1,11 @@
+
+.description{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    /* border: 1px solid  black; */
+    display: flex;
+    align-items: center;
+    justify-content: stretch;
+    
+    
+}
